@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\bin\Debug\net8.0\Payment.exe
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\bin\Debug\net8.0\Payment.deps.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\bin\Debug\net8.0\Payment.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\bin\Debug\net8.0\Payment.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\bin\Debug\net8.0\Payment.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\obj\Debug\net8.0\Payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\obj\Debug\net8.0\Payment.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\obj\Debug\net8.0\Payment.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\obj\Debug\net8.0\Payment.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\obj\Debug\net8.0\Payment.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\obj\Debug\net8.0\refint\Payment.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\obj\Debug\net8.0\Payment.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\obj\Debug\net8.0\Payment.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\Payment\Payment\obj\Debug\net8.0\ref\Payment.dll
