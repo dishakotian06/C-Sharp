@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\bin\Debug\net8.0\InsufficientFundsException.exe
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\bin\Debug\net8.0\InsufficientFundsException.deps.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\bin\Debug\net8.0\InsufficientFundsException.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\bin\Debug\net8.0\InsufficientFundsException.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\bin\Debug\net8.0\InsufficientFundsException.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\obj\Debug\net8.0\InsufficientFundsException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\obj\Debug\net8.0\InsufficientFundsException.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\obj\Debug\net8.0\InsufficientFundsException.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\obj\Debug\net8.0\InsufficientFundsException.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\obj\Debug\net8.0\InsufficientFundsException.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\obj\Debug\net8.0\refint\InsufficientFundsException.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\obj\Debug\net8.0\InsufficientFundsException.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\obj\Debug\net8.0\InsufficientFundsException.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\InsufficientFundsException\InsufficientFundsException\obj\Debug\net8.0\ref\InsufficientFundsException.dll
