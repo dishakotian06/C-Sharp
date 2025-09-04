@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\bin\Debug\net8.0\AutoCorrect.exe
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\bin\Debug\net8.0\AutoCorrect.deps.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\bin\Debug\net8.0\AutoCorrect.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\bin\Debug\net8.0\AutoCorrect.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\bin\Debug\net8.0\AutoCorrect.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\obj\Debug\net8.0\AutoCorrect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\obj\Debug\net8.0\AutoCorrect.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\obj\Debug\net8.0\AutoCorrect.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\obj\Debug\net8.0\AutoCorrect.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\obj\Debug\net8.0\AutoCorrect.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\obj\Debug\net8.0\refint\AutoCorrect.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\obj\Debug\net8.0\AutoCorrect.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\obj\Debug\net8.0\AutoCorrect.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\AutoCorrect\AutoCorrect\obj\Debug\net8.0\ref\AutoCorrect.dll
