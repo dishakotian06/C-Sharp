@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\bin\Debug\net8.0\CalculatorException.exe
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\bin\Debug\net8.0\CalculatorException.deps.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\bin\Debug\net8.0\CalculatorException.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\bin\Debug\net8.0\CalculatorException.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\bin\Debug\net8.0\CalculatorException.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\obj\Debug\net8.0\CalculatorException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\obj\Debug\net8.0\CalculatorException.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\obj\Debug\net8.0\CalculatorException.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\obj\Debug\net8.0\CalculatorException.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\obj\Debug\net8.0\CalculatorException.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\obj\Debug\net8.0\refint\CalculatorException.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\obj\Debug\net8.0\CalculatorException.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\obj\Debug\net8.0\CalculatorException.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\Calculator\Calculator\obj\Debug\net8.0\ref\CalculatorException.dll
