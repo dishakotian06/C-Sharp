@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\bin\Debug\net8.0\InvalidMarksException.exe
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\bin\Debug\net8.0\InvalidMarksException.deps.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\bin\Debug\net8.0\InvalidMarksException.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\bin\Debug\net8.0\InvalidMarksException.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\bin\Debug\net8.0\InvalidMarksException.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\obj\Debug\net8.0\InvalidMarksException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\obj\Debug\net8.0\InvalidMarksException.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\obj\Debug\net8.0\InvalidMarksException.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\obj\Debug\net8.0\InvalidMarksException.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\obj\Debug\net8.0\InvalidMarksException.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\obj\Debug\net8.0\refint\InvalidMarksException.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\obj\Debug\net8.0\InvalidMarksException.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\obj\Debug\net8.0\InvalidMarksException.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\InvalidMarksException\InvalidMarksException\obj\Debug\net8.0\ref\InvalidMarksException.dll
