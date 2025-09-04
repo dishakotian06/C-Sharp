@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\bin\Debug\net8.0\Vehicle.exe
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\bin\Debug\net8.0\Vehicle.deps.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\bin\Debug\net8.0\Vehicle.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\bin\Debug\net8.0\Vehicle.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\bin\Debug\net8.0\Vehicle.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\obj\Debug\net8.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\obj\Debug\net8.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\obj\Debug\net8.0\Vehicle.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\obj\Debug\net8.0\refint\Vehicle.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\obj\Debug\net8.0\Vehicle.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\obj\Debug\net8.0\Vehicle.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\Vehicle\Vehicle\obj\Debug\net8.0\ref\Vehicle.dll
