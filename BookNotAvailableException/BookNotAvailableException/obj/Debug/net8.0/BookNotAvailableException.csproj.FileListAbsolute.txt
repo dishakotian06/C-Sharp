@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\bin\Debug\net8.0\BookNotAvailableException.exe
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\bin\Debug\net8.0\BookNotAvailableException.deps.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\bin\Debug\net8.0\BookNotAvailableException.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\bin\Debug\net8.0\BookNotAvailableException.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\bin\Debug\net8.0\BookNotAvailableException.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\obj\Debug\net8.0\BookNotAvailableException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\obj\Debug\net8.0\BookNotAvailableException.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\obj\Debug\net8.0\BookNotAvailableException.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\obj\Debug\net8.0\BookNotAvailableException.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\obj\Debug\net8.0\BookNotAvailableException.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\obj\Debug\net8.0\refint\BookNotAvailableException.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\obj\Debug\net8.0\BookNotAvailableException.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\obj\Debug\net8.0\BookNotAvailableException.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\BookNotAvailableException\BookNotAvailableException\obj\Debug\net8.0\ref\BookNotAvailableException.dll
