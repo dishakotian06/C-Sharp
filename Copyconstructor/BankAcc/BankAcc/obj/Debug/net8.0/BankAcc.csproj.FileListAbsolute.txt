@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\bin\Debug\net8.0\BankAcc.exe
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\bin\Debug\net8.0\BankAcc.deps.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\bin\Debug\net8.0\BankAcc.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\bin\Debug\net8.0\BankAcc.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\bin\Debug\net8.0\BankAcc.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\obj\Debug\net8.0\BankAcc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\obj\Debug\net8.0\BankAcc.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\obj\Debug\net8.0\BankAcc.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\obj\Debug\net8.0\BankAcc.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\obj\Debug\net8.0\BankAcc.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\obj\Debug\net8.0\refint\BankAcc.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\obj\Debug\net8.0\BankAcc.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\obj\Debug\net8.0\BankAcc.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\BankAcc\BankAcc\obj\Debug\net8.0\ref\BankAcc.dll

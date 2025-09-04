@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\bin\Debug\net8.0\Book.exe
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\bin\Debug\net8.0\Book.deps.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\bin\Debug\net8.0\Book.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\bin\Debug\net8.0\Book.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\bin\Debug\net8.0\Book.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\obj\Debug\net8.0\Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\obj\Debug\net8.0\Book.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\obj\Debug\net8.0\Book.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\obj\Debug\net8.0\Book.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\obj\Debug\net8.0\Book.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\obj\Debug\net8.0\refint\Book.dll
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\obj\Debug\net8.0\Book.pdb
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\obj\Debug\net8.0\Book.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\c-sharp\Book\Book\obj\Debug\net8.0\ref\Book.dll
